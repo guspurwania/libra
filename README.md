@@ -1,6 +1,5 @@
 <p align="center"><img height="188" width="198" src="https://botman.io/img/botman.png"></p>
-<h1 align="center">LIBRA</h1> <br />
-<h3 align="center">Lecture Interactive Bot Reminder Assistant</h3>
+<h1 align="center">LIBRA <br /> (Lecture Interactive Bot Reminder Assistant)</h1>
 
 ## About LIBRA
 
