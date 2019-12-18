@@ -18,11 +18,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Things needed for LIBRA system installation
 
-```
-Give examples
-```
+* PHP >= 7.2
+* MariaDB >= 10.2
+* [Composer](https://getcomposer.org/) - Depedency Management
+* [Git](https://git-scm.com/downloads) - Repository Management
+* [Ngrok](https://ngrok.com/) - Public Server from Local Resource
+* [Botman.io](https://botman.io/) - Chatbot Framework
 
 ### Installing
 
