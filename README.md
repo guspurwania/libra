@@ -1,11 +1,16 @@
 <p align="center"><img width="400" src="https://gdurl.com/HZyZ"></p>
 <h1 align="center">Lecture Interactive Bot Reminder Assistant</h1>
 
-## About LIBRA
+## About
 
 LIBRA (Lecture Interactive Bot Reminder Assistant) - We are here as your Virtual Reminder Assistant <br />
 Our mission is to help the teaching and learning process more effectively and efficiently. <br />
 Your virtual assistant will remind you of your class schedule, so you can manage your time better.
+
+## Features
+* Manage Schedule - You can manage your schedule through a special dashboard provided by the application
+* Reminder Schedule - Bots provided by the application will notify you when there is a class or teaching schedule
+* Broadcast - Bots provided by the application will spread the message to all participants who join the class to attend the class
 
 ## Documentation
 
