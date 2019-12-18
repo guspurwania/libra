@@ -1,9 +1,11 @@
 <p align="center"><img width="400" src="https://gdurl.com/HZyZ"></p>
-<h1 align="center">LIBRA <br /> (Lecture Interactive Bot Reminder Assistant)</h1>
+<h1 align="center">Lecture Interactive Bot Reminder Assistant</h1>
 
 ## About LIBRA
 
-While BotMan itself is framework agnostic, BotMan is also available as a bundle with the great [Laravel](https://laravel.com) PHP framework. This bundled version is called BotMan Studio and makes your chatbot development experience even better. By providing testing tools, an out of the box web driver implementation and additional tools like an enhanced CLI with driver installation, class generation and configuration support, it speeds up the development significantly.
+LIBRA (Lecture Interactive Bot Reminder Assistant) - We are here as your Virtual Reminder Assistant <br />
+Our mission is to help the teaching and learning process more effectively and efficiently. <br />
+Your virtual assistant will remind you of your class schedule, so you can manage your time better.
 
 ## Documentation
 
