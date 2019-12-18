@@ -25,7 +25,6 @@ Things needed for LIBRA system installation
 * [Composer](https://getcomposer.org/) - Depedency Management
 * [Git](https://git-scm.com/downloads) - Repository Management
 * [Ngrok](https://ngrok.com/) - Public Server from Local Resource
-* [Botman.io](https://botman.io/) - Chatbot Framework
 
 ### Installing
 
@@ -82,14 +81,13 @@ Run application in local environment
 php artisan serve
 ```
 
-You can see in your browser and type the URL http://localhost:8000. <br /> 
-This the end of instalation step
+You can see in your browser and type the URL http://localhost:8000.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Here is a way to test projects on a Public URL using Ngrok and integrate it with a telegram bot 
 
-### Break down into end to end tests
+### Running the project on a Public URL
 
 Explain what these tests test and why
 
@@ -97,7 +95,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+### Integration with Telegram Bot
 
 Explain what these tests test and why
 
@@ -107,25 +105,19 @@ Give an example
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Laravel 5.7](https://laravel.com/) - The PHP Web Framework
+* [Botman.io](https://botman.io/) - The PHP Chatbot Framework
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We open this project for contributing, and the process for submitting pull requests to us.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ida Bagus Gede Purwania** - *Initial work* - [Gus Purwania](https://github.com/guspurwania)
+* **Muhhamad Qusyairi** 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Open Source Project
 
