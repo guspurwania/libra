@@ -1,4 +1,4 @@
-<p align="center"><img width="250" src="https://gdurl.com/HZyZ"></p>
+<p align="center"><img width="400" src="https://gdurl.com/HZyZ"></p>
 <h1 align="center">LIBRA <br /> (Lecture Interactive Bot Reminder Assistant)</h1>
 
 ## About LIBRA
