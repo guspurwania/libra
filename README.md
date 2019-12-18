@@ -31,19 +31,59 @@ Things needed for LIBRA system installation
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Clone the repository to your project
 
 ```
-Give the example
+git clone https://github.com/guspurwania/libra.git
 ```
 
-And repeat
+Setup .env - Copy from .env.example 
 
 ```
-until finished
+copy .env.example .env
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Prepare your database (MariaDB) in your local and set on your .env file
+
+```
+...
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=libra
+DB_USERNAME=root
+DB_PASSWORD=
+...
+```
+
+Prepare your telegram token using [Bot Father](https://core.telegram.org/bots) and set on your .env file
+
+```
+...
+TELEGRAM_TOKEN=604190517:AAFv_XQ0zYj8_yNbwg_rMnXXCt9jbf5R1PQ
+...
+```
+
+Install Depedencies using Composer
+
+```
+composer install
+```
+
+Running Migration
+
+```
+php artisan migrate
+```
+
+Run application in local environment
+
+```
+php artisan serve
+```
+
+You can see in your browser and type the URL http://localhost:8000. <br /> 
+This the end of instalation step
 
 ## Running the tests
 
