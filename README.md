@@ -8,13 +8,39 @@ Our mission is to help the teaching and learning process more effectively and ef
 Your virtual assistant will remind you of your class schedule, so you can manage your time better.
 
 ## Features
-* Manage Schedule - You can manage your schedule through a special dashboard provided by the application
-* Reminder Schedule - Bots provided by the application will notify you when there is a class or teaching schedule
-* Broadcast - Bots provided by the application will spread the message to all participants who join the class to attend the class
+* **Manage Schedule** - You can manage your schedule through a special dashboard provided by the application
+* **Reminder Schedule** - Bots provided by the application will notify you when there is a class or teaching schedule
+* **Broadcast** - Bots provided by the application will spread the message to all participants who join the class to attend the class
 
-## Documentation
+## Getting Started
 
-You can find the BotMan and BotMan Studio documentation at [http://botman.io](http://botman.io).
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
 
 ## Support the development
 **Do you like this project? Support it by donating**
