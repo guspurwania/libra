@@ -25,6 +25,7 @@ Things needed for LIBRA system installation
 * [Composer](https://getcomposer.org/) - Depedency Management
 * [Git](https://git-scm.com/downloads) - Repository Management
 * [Ngrok](https://ngrok.com/) - Public Server from Local Resource
+* [Postman](https://www.getpostman.com/) - API Testing
 
 ### Installing
 
@@ -89,19 +90,29 @@ Here is a way to test projects on a Public URL using Ngrok and integrate it with
 
 ### Running the project on a Public URL
 
-Explain what these tests test and why
+Keep running your project on local development in http://localhost:8000 <br />
+After that run the command in other cmd
 
 ```
-Give an example
+ngrok http 8000
 ```
 
 ### Integration with Telegram Bot
 
-Explain what these tests test and why
+Open Postman and make a POST Request <br />
+Use this link for end point URL
 
 ```
-Give an example
+https://api.telegram.org/bot<YOUR-TELEGRAM-TOKEN-HERE>/setWebhook
 ```
+
+With the BODY request
+
+```
+url => 'YOUR_URL_WEBHOOK'
+```
+
+For detail documentation follow this [link](https://botman.io/2.0/driver-telegram)
 
 ## Built With
 
